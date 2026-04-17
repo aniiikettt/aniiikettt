@@ -122,7 +122,7 @@
 ## 🌐 Connect  
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/aniket-kumar-728885294/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/aniket-kumar-728885294/]"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:aniket.kumardeoghar2001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
