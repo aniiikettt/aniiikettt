@@ -19,7 +19,7 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🎓 B.Tech CSE @ SOA University  
-- 📊 Data Analyst Intern @ Career Dream Destination  
+- 📊 Data Analyst Intern @ Career Dream Destination LLP
 - 🤖 Creator of **Smart Data Analyst AI Agent**  
 - 💡 Exploring **AI, Data Systems & Scalable Apps**  
 - ⚡ Building projects that **solve real problems**  
@@ -108,21 +108,21 @@
 
 🏆 Horizon Ideathon Winner  
 🏆 Hackathon Winner (2024 & 2025)  
-🏆 Smart India Hackathon Finalist  
+🏆 Core Member E-CELL & Robotics Club
 🏀 Zonal Basketball Champion  
 
 ---
 
 ## 🎯 Beyond Code  
 
-🎸 Guitar | 🎹 Piano | 🏏 Sports | 🎧 Music Production  
+🏏 Sports  
 
 ---
 
 ## 🌐 Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/aniket-kumar-728885294/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:aniket.kumardeoghar2001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
