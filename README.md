@@ -1,120 +1,135 @@
+<!-- ======= HEADER ======= -->
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">🚀 Data Analyst | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Code.+Analyze.+Build.+Repeat.;Data+Driven+Developer;AI+%7C+Web+%7C+Analytics&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Build.+Analyze.+Scale.+Evolve.;Data+Driven+Developer;AI+%7C+Web+%7C+Analytics&center=true&width=550&height=50">
+</p>
+
+<!-- ======= BADGES ======= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniiikettt&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/aniiikettt?label=Followers&style=social" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 B.Tech CSE @ SOA University (2022–2026)  
-- 📊 Data Analyst Intern @ Career Dream Destination  
-- 🤖 Built **Smart Data Analyst AI Agent**  
-- 💡 Passionate about **AI, Data & Scalable Systems**  
-- ⚡ I love turning **data into decisions**  
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🎓 B.Tech CSE @ SOA University  
+- 📊 Data Analyst Intern @ Career Dream Destination LLP 
+- 🤖 Creator of **Smart Data Analyst AI Agent**  
+- 💡 Exploring **AI, Data Systems & Scalable Apps**  
+- ⚡ Building projects that **solve real problems**  
 
 ---
 
-## 🛠 Tech Stack  
+## 🧠 Tech Universe  
 
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-orange)
-![Java](https://img.shields.io/badge/Java-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![C++](https://img.shields.io/badge/C++-blue)
+<p align="center">
 
-### 📊 Data & Analytics  
-![Pandas](https://img.shields.io/badge/Pandas-black)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow)
-![Plotly](https://img.shields.io/badge/Plotly-darkblue)
+💻 **Languages**  
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,sql" />
 
-### 🌐 Development  
-![React](https://img.shields.io/badge/React-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Flask](https://img.shields.io/badge/Flask-black)
-![Streamlit](https://img.shields.io/badge/Streamlit-red)
+<br><br>
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-orange)
-![AWS](https://img.shields.io/badge/AWS-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Linux](https://img.shields.io/badge/Linux-black)
+📊 **Data & Analytics**  
+<br>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://img.shields.io/badge/PowerBI-yellow" />
+<img src="https://img.shields.io/badge/Plotly-darkblue" />
+
+<br><br>
+
+🌐 **Development**  
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
+<img src="https://img.shields.io/badge/Streamlit-red" />
+
+<br><br>
+
+⚙️ **Tools**  
+<br>
+<img src="https://skillicons.dev/icons?i=git,aws,mysql,linux,vscode" />
+
+</p>
 
 ---
 
-## 📌 Featured Projects  
+## 🚀 Featured Work  
 
 ### 🔮 Smart Data Analyst AI Agent  
-- Multi-agent system for automated data analysis  
-- Data ingestion → cleaning → EDA → visualization  
-- Streamlit dashboard with real-time insights  
+✨ Multi-agent system for automated analytics  
+📊 Data → Cleaning → EDA → Visualization  
+⚡ Streamlit dashboard with real-time insights  
 
 ---
 
 ### 📊 Customer Churn Analysis  
-- End-to-end churn analysis using Python & SQL  
-- Built Power BI dashboard for business insights  
-- Identified high-risk customers for retention  
+📈 End-to-end analysis using Python & SQL  
+📊 Power BI dashboard for insights  
+🎯 Identified high-risk customers  
 
 ---
 
 ### ♻️ LitterLift  
-- Smart waste tracking system  
-- Geo-tagged data analysis & clustering  
-- Real-time reporting insights  
+🌍 Smart waste tracking system  
+📍 Geo-tagged data insights  
+📊 Pattern & cluster analysis  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniiikettt&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniiikettt&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniiikettt&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniiikettt&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniiikettt&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniiikettt&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph  
 
-[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniiikettt&theme=react-dark)](https://github.com/aniiikettt)
+[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniiikettt&theme=tokyo-night)](https://github.com/aniiikettt)
 
 ---
 
 ## 🏆 Achievements  
 
-- 🥇 Winner — Horizon 2K25 Ideathon  
-- 🥇 Winner — Horizon Hackathon (2024 & 2025)  
-- 🥉 Top 04 — Smart India Hackathon  
-- 🏀 Zonal Basketball Champion  
+🏆 Horizon Ideathon Winner  
+🏆 Hackathon Winner (2024 & 2025)  
+🏆 Core Member E-CELL & Robotics Club
+🏀 Zonal Basketball Champion  
 
 ---
 
-## 🎯 Skills Beyond Code  
+## 🎯 Beyond Code  
 
-🎸 Guitar | 🎹 Piano | 🏏 Sports | 🎤 Music Production  
+🏏 Sports |
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
-  <a href="mailto:aniket.kumardeoghar2001@gmail.com"><img src="https://img.shields.io/badge/Email-red"></a>
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:aniket.kumardeoghar2001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-## 💡 Quote  
+## 💡 Philosophy  
 
-> “First, solve the problem. Then, write the code.”
+<p align="center">
+  <i>"Great systems aren’t built with code alone, but with clarity of thought."</i>
+</p>
